@@ -2,9 +2,9 @@
 
 ### About <br/>
 
-The website was created by Serhiy Paziuk for his portfolio. <br/>
+Welcome to DiLeMaClothes, where fashion meets affordability. We offer a wide selection of stylish and trendy clothing for women, from casual wear to formal attire, at prices that won't break the bank. Our collections are curated to cater to different styles and occasions, ensuring that you find the perfect outfit for any event.<br/>
 
-### Website : https://paziuk.github.io/Projects/Sites/DiLeMaClothes/index.html  <br/>
+### Link to the website you can find [here](https://github.com/PAZIUK/PAZIUK/blob/main/README.md#my-projects)<br/>
 
 ## For creating were used <br/>
 
